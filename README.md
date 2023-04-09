@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raneen</h1>
-<h3 align="center">A passionate programmer</h3>
+<h2 align="center">A passionate programmer</h2>
 
-<img src="https://user-images.githubusercontent.com/121107407/230800546-c08e7f40-b505-477b-8bfa-b5bda27ebb7a.gif" align="right" width="540" hight="304" style="margin-bottom:10px"/>
+<img src="https://user-images.githubusercontent.com/121107407/230800546-c08e7f40-b505-477b-8bfa-b5bda27ebb7a.gif" align="right" width="540" hight="304"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
