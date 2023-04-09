@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raneen</h1>
 <h3 align="center">A passionate programmer from Palestine</h3>
 
-![code rain](https://user-images.githubusercontent.com/121107407/230798404-1f9e072a-2863-48ac-ab64-ab65ad416c89.gif)
+![SvAJAH](https://user-images.githubusercontent.com/121107407/230798510-02c4d9c0-e553-47d4-a7fd-69d75a44a4a3.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
